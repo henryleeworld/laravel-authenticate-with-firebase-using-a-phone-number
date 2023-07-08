@@ -1,4 +1,4 @@
-# Laravel 8 透過 Firebase 電話號碼身份驗證
+# Laravel 10 透過 Firebase 電話號碼身份驗證
 
 可以通過向用戶的手機發送簡訊來使用 Firebase 身份驗證來登錄用戶。用戶使用簡訊中包含的一次性代碼登錄。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/aHtfW6u.gif)
+![](https://i.imgur.com/EWvex4R.gif)
 > 僅使用電話號碼進行身份驗證雖然方便，但比其他可用方法安全性低，因為擁有電話號碼的身份可以在用戶之間輕鬆轉移
